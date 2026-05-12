@@ -1,68 +1,92 @@
-<h1 align="Center">
-  <br>
-  Welcome to My Github Profile !
-<br>
-</h1>
+<div align="center">
 
+# Welcome to Sujaan's GitHub
 
-<h3 align="center"><b>Hi , I'm Sk Sujaan Modal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
+
+</div>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
+  <a href="https://github.com/yourusername">GitHub</a> •
+  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://telegram.org">Telegram</a> •
+  <a href="https://whatsapp.com">WhatsApp</a>
 </p>
 
-<br>
+---
 
-![](https://visitcount.itsvg.in/api?id=sksujaanmondal&icon=2&color=1)
+# About Me
 
-<br>
+Hello, I'm Sujaan — a Frontend Developer focused on building clean, scalable, and modern web applications.
+I value performance, structure, and long‑term maintainability.
 
-## <picture><img src = "https://github.com/sksujaanmondal/sksujaanmondal/blob/main/Asset/about_me.gif" width = 50px></picture> <b>About me</b>
-<picture> <img align="right" src = "https://github.com/sksujaanmondal/sksujaanmondal/blob/main/Asset/hacker.gif"></picture>
+### Frontend Development
+- React / Next.js / TypeScript
+- Modern UI & clean architecture
+- Strong GitHub collaboration mindset
 
-<br>
+---
 
-<ul>
-<li>👋 Hi, I’m @sksujaanmondal</li>
-<li>🌱 I’m currently learning : <b>B.Sc CS || Civil Engineering</b>.</li>
-<li>Feel free to connect with me on Linkedin.</li>
-<li>Learning new technologies everyday to become better than my past self.</li>
-<li>⚡ Fun fact : <b>I think I am funny</b>.</li>
-</ul>
+# Technologies
 
-<br>
+## Core Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/its___sujaan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its___sujaan25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sksujaanmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sksujaanmondal" height="30" width="40" /></a>
-<a href="https://instagram.com/sujaanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujaanz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tobii.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tobii.x" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
 </p>
 
-<br>
+## Frameworks & Libraries
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux" />
+</p>
 
-<br>
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sksujaanmondal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sksujaanmondal" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sksujaanmondal&show_icons=true&locale=en&theme=tokyonight" alt="sksujaanmondal" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sksujaanmondal&&theme=tokyonight" alt="sksujaanmondal" /></p>
-<br>
+# Team Collaboration
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
-<br>
+Experienced in team development using GitHub, pull requests, code reviews, and structured workflows.
 
+---
 
+# Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark" />
+</p>
+
+---
 
 <div align="center">
-<a href="https://github.com/sksujaanmondal/sksujaanmondal">
-<img  src="https://github.com/sksujaanmondal/sksujaanmondal/blob/main/Asset/gridsnake.svg"
-     alt="snake" />
-  </a>
+
+### Thanks for visiting my profile 🚀
+
 </div>
