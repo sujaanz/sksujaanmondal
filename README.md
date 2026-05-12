@@ -1,7 +1,4 @@
 <div align="center">
-
-# Welcome to Sujaan's GitHub
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
 
 </div>
@@ -11,8 +8,8 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://github.com/sujaanz">GitHub</a> •
+  <a href="https://linkedin.com/sksujaanmondal">LinkedIn</a> •
   <a href="https://telegram.org">Telegram</a> •
   <a href="https://whatsapp.com">WhatsApp</a>
 </p>
@@ -63,8 +60,8 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 # Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujaanz&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaanz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -72,7 +69,7 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sujaanz&theme=tokyonight" />
 </p>
 
 ---
@@ -80,7 +77,7 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaanz&theme=github-dark" />
 </p>
 
 ---
