@@ -9,8 +9,8 @@
   <p>
     <a href="#"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/sksujaanmondal"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://instagram.com/sujaanz"><img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://x.com/SkSujaanMondal"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
   </p>
 </div>
 
