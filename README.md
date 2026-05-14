@@ -38,9 +38,11 @@
     <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=black" />
     <img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3&logoColor=black" />
     <img src="https://img.shields.io/badge/JAVASCRIPT-white?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/SASS-white?style=flat-square&logo=sass&logoColor=black" />
+    <img src="https://img.shields.io/badge/JAVA-white?style=flat-square&logo=java&logoColor=black" />
     <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=flat-square&logo=typescript&logoColor=black" />
     <img src="https://img.shields.io/badge/GITHUB-white?style=flat-square&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/PYTHON-white?style=flat-square&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=black" />
   </p>
 
   <h3>Frameworks & Libraries</h3>
